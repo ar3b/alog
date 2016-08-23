@@ -3,10 +3,8 @@ package com.ar3b.log;
 /**
  * Created by ar3b on 23.05.2016.
  */
-import android.os.Environment;
 import android.text.TextUtils;
 
-import java.io.File;
 import java.util.Formatter;
 
 public class Log {
