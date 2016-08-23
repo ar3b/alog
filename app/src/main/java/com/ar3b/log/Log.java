@@ -13,7 +13,6 @@ public class Log {
 
     public static final String _V = "v";
     public static final String _D = "d";
-    private static final String file_path = Environment.getExternalStorageDirectory().getAbsolutePath()+ File.separator+"wotdblog.txt";
 
     public static String type = _V;
 
